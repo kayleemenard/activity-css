@@ -3,8 +3,23 @@ html {
 }
 
 body {
-    background-color: #c9c;
-    font-size: 0.8 rem;
-    line-height: 0.9 rem;
-    
+    background-color: #C9C;
+    font-size: 0.7rem;
+    line-height: 1rem;   
+}
+
+hr {
+    border: solid 5px #96F
+}
+
+h1 {
+    color: #FFF
+}
+
+h2 {
+    color: #FFF
+}
+
+p {
+    background-color: #FCC
 }
