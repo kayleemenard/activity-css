@@ -20,6 +20,21 @@ h2 {
     color: #FFF
 }
 
-p {
+h2 + p {
     background-color: #FCC
 }
+
+ul li:first-child {
+    background-color: #FCC
+}
+
+ul li:third-child {
+    background-color: #FCC
+}
+
+ul li:last-child {
+    background-color: #FCC
+}
+        
+        
+        
